@@ -36,3 +36,8 @@ desktop.ini
 .cache/
 .parcel-cache/
 .eslintcache
+
+# Next.js build artifacts
+.next/
+out/
+next-env.d.ts
